@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>readonly.png</file>
+        <file>readonly.ico</file>
+    </qresource>
+</RCC>
